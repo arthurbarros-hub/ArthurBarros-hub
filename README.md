@@ -19,8 +19,8 @@ Atualmente, estou em busca da minha primeira oportunidade como Desenvolvedor de 
 
 ## 💻 Ferramentas e DevTools
 <img src="https://skillicons.dev/icons?i=git,vscode,arduino,androidstudio&theme=dark" />
-(https://img.shields.io/badge/Jira-0052CC?style=for-the-badge)
-(https://img.shields.io/badge/Agile%20(Scrum)-0052CC?style=for-the-badge)
+https://img.shields.io/badge/Jira-0052CC?style=for-the-badge
+https://img.shields.io/badge/Agile%20(Scrum)-0052CC?style=for-the-badge
 
 ---
 
