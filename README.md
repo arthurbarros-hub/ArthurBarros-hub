@@ -10,7 +10,6 @@ Atualmente, estou em busca da minha primeira oportunidade como Desenvolvedor de 
 
 ### 🛠️ Backend
 <img src="https://skillicons.dev/icons?i=java,mysql&theme=dark" />
-![XML](https://img.shields.io/badge/XML-black?style=for-the-badge)
 
 ### 🖥️ Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
