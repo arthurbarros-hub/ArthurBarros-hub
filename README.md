@@ -10,6 +10,7 @@ Atualmente, estou em busca da minha primeira oportunidade como Desenvolvedor de 
 
 ### 🛠️ Backend
 <img src="https://skillicons.dev/icons?i=java,mysql&theme=dark" />
+![XML](https://img.shields.io/badge/XML-black?style=for-the-badge)
 
 ### 🖥️ Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
@@ -18,6 +19,8 @@ Atualmente, estou em busca da minha primeira oportunidade como Desenvolvedor de 
 
 ## 💻 Ferramentas e DevTools
 <img src="https://skillicons.dev/icons?i=git,vscode,arduino,androidstudio&theme=dark" />
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge)
+![Agile (Scrum)](https://img.shields.io/badge/Agile%20(Scrum)-0052CC?style=for-the-badge)
 
 ---
 
