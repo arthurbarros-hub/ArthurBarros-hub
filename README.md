@@ -9,7 +9,7 @@ Atualmente, estou em busca da minha primeira oportunidade como Desenvolvedor de 
 ## 🧰 Linguagens usadas
 
 ### 🛠️ Backend
-<img src="https://skillicons.dev/icons?i=java,xml,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,mysql&theme=dark" />
 
 ### 🖥️ Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
@@ -17,7 +17,7 @@ Atualmente, estou em busca da minha primeira oportunidade como Desenvolvedor de 
 ---
 
 ## 💻 Ferramentas e DevTools
-<img src="https://skillicons.dev/icons?i=git,vscode,jira,arduino,androidstudio&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,vscode,arduino,androidstudio&theme=dark" />
 
 ---
 
