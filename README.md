@@ -17,7 +17,27 @@ Atualmente, estou em busca da minha primeira oportunidade como Desenvolvedor de 
 ---
 
 ## 💻 Ferramentas e DevTools
-<img src="https://skillicons.dev/icons?i=git,vscode,arduino,androidstudio,thonny&theme=dark" />
+### 🛠️ Backend
+<img src="https://skillicons.dev/icons?i=java,mysql&theme=dark" />
+![XML](https://img.shields.io/badge/XML-black?style=for-the-badge)
+
+### 🖥️ Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+
+---
+
+## 💻 Ferramentas e DevTools
+<img src="https://skillicons.dev/icons?i=git,vscode,arduino,androidstudio&theme=dark" />
+![Thonny](https://img.shields.io/badge/Thonny-306998?style=for-the-badge&logo=python&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge)
+![Agile (Scrum)](https://img.shields.io/badge/Agile%20(Scrum)-0052CC?style=for-the-badge)
+
+---
+
+## 💬 Contato
+<a href="https://www.linkedin.com/in/arthur-mansur-05a617305/">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+</a>
 
 ---
 
