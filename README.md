@@ -17,7 +17,8 @@ Atualmente, estou em busca da minha primeira oportunidade como Desenvolvedor de 
 ---
 
 ## 💻 Ferramentas e DevTools
-<img src="https://skillicons.dev/icons?i=git,vscode,arduino,androidstudio,thonny&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,vscode,arduino,androidstudio,thonny&theme=dark" alt="My Skills" />
+
 
 ---
 
