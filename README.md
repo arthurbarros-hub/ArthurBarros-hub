@@ -17,8 +17,22 @@ Atualmente, estou em busca da minha primeira oportunidade como Desenvolvedor de 
 ---
 
 ## 💻 Ferramentas e DevTools
-<img src="https://skillicons.dev/icons?i=git,vscode,arduino,androidstudio&theme=dark" alt="My Skills" />
-<img src="https://raw.githubusercontent.com/thonny/thonny/master/docs/_static/img/thonny-logo-128.png" alt="Thonny" width="40" height="40" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git,vscode,arduino,androidstudio&theme=dark" />
+  <img 
+    src="https://raw.githubusercontent.com/thonny/thonny/master/docs/_static/img/thonny-logo.png"
+    alt="Thonny"
+    width="48"
+    height="48"
+    style="
+      border-radius: 15px;
+      background-color: #111827;
+      padding: 6px;
+      margin-left: 4px;
+    "
+  />
+</p>
+
 
 
 
