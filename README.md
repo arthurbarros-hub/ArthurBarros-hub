@@ -19,4 +19,4 @@
 ---
 
 ### 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-mansur-05a617305)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)](https://www.linkedin.com/in/arthur-mansur-05a617305)
