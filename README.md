@@ -19,4 +19,4 @@
 ---
 
 ### 📫 Contato
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)](https://www.linkedin.com/in/arthur-mansur-05a617305)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/arthur-mansur-05a617305)]
