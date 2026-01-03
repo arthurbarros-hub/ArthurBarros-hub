@@ -14,7 +14,7 @@
 ---
 
 ### 🛠️ Ferramentas e DevTools
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,postman,arduino,androidstudio,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,eclipse,microsoftvscode,idea,postman,arduino,androidstudio,py)](https://skillicons.dev)
 
 ---
 
