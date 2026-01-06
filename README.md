@@ -1,5 +1,5 @@
 ### 🖥️ Backend
-[![My Skills](https://skillicons.dev/icons?i=java,spring,nestjs,nodejs,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,mysql,postgres)](https://skillicons.dev)
 
 ---
 
