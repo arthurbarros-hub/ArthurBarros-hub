@@ -8,11 +8,6 @@
 
 ---
 
-### ☁️ Infraestrutura e Cloud
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions)](https://skillicons.dev)
-
----
-
 ### 🛠️ Ferramentas e DevTools
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,eclipse,raspberrypi,windows,idea,postman,arduino,androidstudio,py)](https://skillicons.dev)
 
