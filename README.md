@@ -4,7 +4,7 @@
 ---
 
 ### 🎨 Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,saas)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass)](https://skillicons.dev)
 
 ---
 
