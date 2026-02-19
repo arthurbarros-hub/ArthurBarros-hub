@@ -58,7 +58,7 @@ Busco oportunidade de **Estágio ou Desenvolvedor Júnior**, com objetivo de evo
 - **HTML5** – Estruturação semântica de páginas  
 - **CSS3** – Flexbox, Grid e responsividade  
 - **JavaScript** – Manipulação de DOM e consumo de APIs  
-- **TypeScript** – Tipagem básica e interfaces  
+- **TypeScript** – Tipagem básica e segurança  
 - **React** – Componentes, props e useState  
 - **Tailwind CSS** – Estilização utilitária  
 - **Sass** – Variáveis e organização de estilos  
