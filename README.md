@@ -51,18 +51,18 @@ Busco oportunidade de **Estágio ou Desenvolvedor Júnior**, com objetivo de evo
 
 ## 🎨 Frontend
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass&theme=dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass" />
 </p>
 
-- HTML5 semântico  
-- CSS3 avançado (Flexbox, Grid, Responsividade)  
-- Tailwind CSS  
-- Sass  
-- JavaScript  
-- TypeScript  
-- React  
-
+- **HTML5** – Estruturação semântica de páginas  
+- **CSS3** – Flexbox, Grid e responsividade  
+- **JavaScript** – Manipulação de DOM e consumo de APIs  
+- **TypeScript** – Tipagem básica e interfaces  
+- **React** – Componentes, props e useState  
+- **Tailwind CSS** – Estilização utilitária  
+- **Sass** – Variáveis e organização de estilos  
+ 
 ---
 
 ## 🛠 Ferramentas
