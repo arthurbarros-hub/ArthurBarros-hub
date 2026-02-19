@@ -79,11 +79,11 @@ Busco oportunidade de **Estágio ou Desenvolvedor Júnior**, com objetivo de evo
 
 ---
 
-## 📊 Atividade no GitHub
+# 📊 Tecnologias Mais Utilizadas
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=arthurbarros-hub&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117"/>
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=arthurbarros-hub&theme=github-dark-blue&hide_border=true&background=0D1117"/>
+  <img height="180em" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurbarros-hub&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117"/>
 </p>
 
 ---
