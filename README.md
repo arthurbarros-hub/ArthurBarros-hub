@@ -36,14 +36,14 @@ Busco oportunidade de **Estágio ou Desenvolvedor Júnior**, com objetivo de evo
 ## ⚙ Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,nodejs,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,nodejs,python,mysql&theme=dark" />
 </p>
 
 **Conhecimentos**
 
 - Programação Orientada a Objetos  
 - Estruturação de APIs REST  
-- Lógica com matrizes
+- APIs de IA para comunicação
 - Modelagem Relacional com MySQL  
 - Organização e padronização de código  
 
