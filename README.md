@@ -26,8 +26,8 @@ Estudante de tecnologia com foco em **Backend com Java**, desenvolvendo competê
 
 Busco oportunidade de **Estágio ou Desenvolvedor Júnior**, com objetivo de evoluir tecnicamente dentro de ambientes estruturados e orientados a boas práticas.
 
-🎓 **IFSP – São Miguel Paulista**  
-🎓 **Análise e Desenvolvimento de Sistemas – UNICSUL**  
+🎓 **IFSP – Técnico em Informatica para internet**  
+🎓 **UNICSUL - Analise e Desenvolvimento de Sistemas**  
 📍 São Paulo – SP  
 📧 barrosarthur312@gmail.com  
 
