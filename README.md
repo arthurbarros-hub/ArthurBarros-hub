@@ -40,7 +40,7 @@ Busco oportunidade de **Estágio ou Desenvolvedor Júnior**, com objetivo de evo
 **Conhecimentos**
 
 - Programação Orientada a Objetos  
-- Estruturação de APIs REST  
+- Estruturação de APIs  
 - APIs de IA para comunicação
 - Modelagem Relacional com MySQL  
 - Organização e padronização de código  
@@ -50,14 +50,12 @@ Busco oportunidade de **Estágio ou Desenvolvedor Júnior**, com objetivo de evo
 ## 🎨 Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 - **HTML5** – Estruturação semântica de páginas  
 - **CSS3** – Flexbox, Grid e responsividade  
-- **JavaScript** – Manipulação de DOM e consumo de APIs  
-- **TypeScript** – Tipagem básica e segurança  
-- **React** – Componentes, props e useState   
+- **JavaScript** – Manipulação de DOM e consumo de APIs   
 ---
 
 ## 🛠 Ferramentas
