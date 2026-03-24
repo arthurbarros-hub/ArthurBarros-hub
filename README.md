@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <strong>Desenvolvedor Full Stack em Formação</strong>
+  <strong>Desenvolvedor Back-End em Formação</strong>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ## 👨‍💻 Perfil Profissional
 
-Estudante de tecnologia com foco em **Backend com Java**, desenvolvendo competências no ecossistema **Full Stack**.
+Estudante de tecnologia com foco em **Backend**, desenvolvendo competências no ecossistema Java.
 
 Busco oportunidade de **Estágio ou Desenvolvedor Júnior**, com objetivo de evoluir tecnicamente dentro de ambientes estruturados e orientados a boas práticas.
 
@@ -50,17 +50,14 @@ Busco oportunidade de **Estágio ou Desenvolvedor Júnior**, com objetivo de evo
 ## 🎨 Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
 </p>
 
 - **HTML5** – Estruturação semântica de páginas  
 - **CSS3** – Flexbox, Grid e responsividade  
 - **JavaScript** – Manipulação de DOM e consumo de APIs  
 - **TypeScript** – Tipagem básica e segurança  
-- **React** – Componentes, props e useState  
-- **Tailwind CSS** – Estilização utilitária  
-- **Sass** – Variáveis e organização de estilos  
- 
+- **React** – Componentes, props e useState   
 ---
 
 ## 🛠 Ferramentas
@@ -89,7 +86,7 @@ Busco oportunidade de **Estágio ou Desenvolvedor Júnior**, com objetivo de evo
 
 ## 🎯 Objetivo de Carreira
 
-Consolidar minha base técnica em Java e arquitetura de sistemas, evoluindo para atuar como Desenvolvedor Full Stack completo, contribuindo com soluções estruturadas, organizadas e escaláveis.
+Consolidar minha base técnica em Java e arquitetura de sistemas, evoluindo para atuar como Desenvolvedor Back-End, contribuindo com soluções estruturadas, organizadas e escaláveis.
 
 ---
   <i>Disciplina técnica • Evolução contínua • Mentalidade de crescimento</i>
