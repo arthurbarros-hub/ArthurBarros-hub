@@ -78,7 +78,7 @@ Busco oportunidade de **Estágio ou Desenvolvedor Júnior**, com objetivo de evo
   />
 </p>
 
-## 🐍 Snake Game
+## 🐍 Snake Commit
 <p align="center">
   <img src="https://raw.githubusercontent.com/arthurbarros-hub/arthurbarros-hub/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
