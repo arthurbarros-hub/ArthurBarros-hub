@@ -24,9 +24,7 @@ Estudante de tecnologia com foco em **Backend**, desenvolvendo competências no 
 
 Busco oportunidade de **Estágio ou Desenvolvedor Júnior**, com objetivo de evoluir tecnicamente dentro de ambientes estruturados e orientados a boas práticas.
 
-🎓 **IFSP – Técnico em Informatica para internet**  
-🎓 **UNICSUL - Analise e Desenvolvimento de Sistemas**  
-📍 São Paulo – SP  
+🎓 **IFSP – Técnico em Informatica para internet** 🎓 **UNICSUL - Analise e Desenvolvimento de Sistemas** 📍 São Paulo – SP  
 📧 barrosarthur312@gmail.com  
 
 ---
@@ -78,6 +76,11 @@ Busco oportunidade de **Estágio ou Desenvolvedor Júnior**, com objetivo de evo
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=arthurbarros-hub&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF"
   />
+</p>
+
+## 🐍 Snake Game
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arthurbarros-hub/arthurbarros-hub/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
