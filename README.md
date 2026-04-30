@@ -48,7 +48,7 @@ Busco oportunidade de **Estágio ou Desenvolvedor Júnior**, com objetivo de evo
 ## 🎨 Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript" />
 </p>
 
 - **HTML5** – Estruturação semântica de páginas  
