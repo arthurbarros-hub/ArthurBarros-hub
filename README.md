@@ -48,13 +48,12 @@ Busco oportunidade de **Estágio ou Desenvolvedor Júnior**, com objetivo de evo
 ## 🎨 Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript" />
 </p>
 
 - **HTML5** – Estruturação semântica de páginas  
 - **CSS3** – Flexbox, Grid e responsividade  
 - **JavaScript** – Manipulação de DOM e consumo de APIs
-- **React** – Criação de interfaces modulares com componentes e hooks
 - **TypeScript** – Desenvolvimento com tipagem estática e código escalável   
 ---
 
