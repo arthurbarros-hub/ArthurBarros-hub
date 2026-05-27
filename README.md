@@ -34,15 +34,6 @@ Busco oportunidade de **Estágio ou Desenvolvedor Júnior**, com objetivo de evo
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,nodejs,python,mysql&theme=dark" />
 </p>
-
-**Conhecimentos**
-
-- Programação Orientada a Objetos  
-- Estruturação de APIs  
-- APIs de IA para comunicação
-- Modelagem Relacional com MySQL  
-- Organização e padronização de código  
-
 ---
 
 ## 🎨 Frontend
@@ -50,11 +41,6 @@ Busco oportunidade de **Estágio ou Desenvolvedor Júnior**, com objetivo de evo
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,typescript" />
 </p>
-
-- **HTML5** – Estruturação semântica de páginas  
-- **CSS3** – Flexbox, Grid e responsividade  
-- **JavaScript** – Manipulação de DOM e consumo de APIs
-- **TypeScript** – Desenvolvimento com tipagem estática e código escalável   
 ---
 
 ## 🛠 Ferramentas
@@ -62,13 +48,6 @@ Busco oportunidade de **Estágio ou Desenvolvedor Júnior**, com objetivo de evo
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,raspberrypi,postman,idea,windows&theme=dark" />
 </p>
-
-- Versionamento com Git  
-- Organização de repositórios  
-- Estruturação de projetos
-- Verificação e teste de projetos
-- Fluxo de desenvolvimento disciplinado  
-
 ---
 
 ## 📈 Atividade no GitHub
