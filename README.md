@@ -27,28 +27,24 @@ Busco oportunidade de **Estágio ou Desenvolvedor Júnior**, com objetivo de evo
 🎓 **IFSP – Técnico em Informatica para internet** 🎓 **UNICSUL - Analise e Desenvolvimento de Sistemas** 📍 São Paulo – SP  
 📧 barrosarthur312@gmail.com  
 
----
 
 ## ⚙ Backend
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,nodejs,python,mysql&theme=dark" />
 </p>
----
 
 ## 🎨 Frontend
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,typescript" />
 </p>
----
 
 ## 🛠 Ferramentas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,raspberrypi,postman,idea,windows&theme=dark" />
 </p>
----
 
 ## 📈 Atividade no GitHub
 
